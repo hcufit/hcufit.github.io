@@ -1,0 +1,25 @@
+.container-top {
+	
+	background-color: #ff7f50;
+	
+}
+
+
+.navbar{
+ background: #ff7f50;
+}
+
+.navbar .nav-item:hover>.nav-link{color:#ff7f50}
+
+.nav-item{background-color:#ff7f50;}
+
+
+.container-top-headline{font-size:1.5rem;margin:3.5rem;}
+
+
+.container-train{margin-top:1rem;}
+
+li .nav-item{
+	display: inline;
+}
+
