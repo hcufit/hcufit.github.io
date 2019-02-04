@@ -6,6 +6,7 @@ brand: Hercules Fitness
 headline: Fitness First
 description: > # this means to ignore newlines until "baseurl:"
   New Site
+logo: new-logo.png
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://example.com" # the base hostname & protocol for your site
 copyright: 2016 Whatever Company, Inc. All Rights Reserved.
@@ -17,8 +18,8 @@ markdown: kramdown
 snapwidget: 247552
 
 # Contacts
-email: your.name@gmail.com
-phone: +1-800-555-2016
+email: 
+phone: 
 
 # Tracking
 googleAnalitycsID: UA-83933844-1
